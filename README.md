@@ -28,9 +28,18 @@ My contribution:
 Project link:  
 https://github.com/NatalyKrvch/svit-svitla-app
 
+🔹 Flower Studio Frontend  
+Team project (forked repository)
+
+My contribution:
+
+- Worked on responsive layout
+- Improved UI styles
+- Fixed layout issues
+- Collaborated using Git
+
 ### My projects:
 
-- Flower Studio Frontend
 - Learn Lingo
 - Vocabulary Builder
 
