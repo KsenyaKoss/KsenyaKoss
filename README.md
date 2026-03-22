@@ -1,4 +1,38 @@
-## Hi there 👋
+## Hi, I'm Oksana 👋
+
+Frontend Developer (React)
+
+I build responsive web applications and focus on clean UI and user-friendly interfaces.
+
+### Tech stack:
+
+- React
+- JavaScript
+- HTML
+- SCSS
+- REST API
+- Git
+
+### Team project experience:
+
+🔹 Svit Svitla App  
+Team React project
+
+My contribution:
+
+- Developed UI components
+- Fixed bugs in ProductCardPage
+- Participated in refactoring
+- Worked in a team using Git
+
+Project link:  
+https://github.com/NatalyKrvch/svit-svitla-app
+
+### My projects:
+
+- Flower Studio Frontend
+- Learn Lingo
+- Vocabulary Builder
 
 <!--
 **KsenyaKoss/KsenyaKoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
